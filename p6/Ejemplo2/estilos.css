@@ -1,0 +1,20 @@
+.cabecera{
+	width: 1024px;
+	background-color: blue; 
+	color: white;
+}
+#menu{
+	width: 224px;
+	background-color: red; 
+	color: yellow; 
+	float: left;
+}
+.cuerpo{
+	width: 750px;
+	float: left;
+	min-height: 220px;
+	padding-left: 5px;
+	margin-left: 25px;
+	background-color: yellow; 
+	color: blue
+}

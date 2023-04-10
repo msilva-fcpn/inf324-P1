@@ -1,0 +1,11 @@
+<?php
+	include 'cabecera.inc.php';
+	include 'manu.inc.php';
+	include 'cuerpoi.inc.php';
+?>
+
+<p>Bienvenidos a la FCPN</p>
+
+<?php
+	include 'cuerpof.inc.php';
+?>
